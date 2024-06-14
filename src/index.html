@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Игра "поймай меня если сможешь"</h1>
+    <div class="content">
+      <div class="parent">
+        <div class="line">
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+        </div>
+        <div class="line">
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+        </div>
+        <div class="line">
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+        </div>
+        <div class="line">
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="check">
+          <div class="checkClass checkYou">
+            <div id="checkYou" class="field">Вы</div>
+            <div class="field">:</div>
+            <div class="checkYouNumber field">0</div>
+          </div>
+          <div class="checkClass checkGoblin">
+            <img src="goblin.png" class="field" alt="">
+            <div class="field">:</div>
+            <div class="checkGoblinNumber field">0</div>
+          </div>
+        </div>
+        <div class="rules">
+          <h2>Правила:</h2>
+          <div>
+            <p>Задача игрока - успеть щелкнуть по гоблину между перемещениями.</p>
+            <p>За каждое "попадание" - игроку начисляется балл.</p>
+            <p>За каждый промах - балл начисляется гоблину.</p>
+            <p>Игрок победил, если заработал 5 баллов.</p>
+            <p>Гоблин победил, если заработал 10 баллов.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="js/app.js"></script>
+  </body>
+</html>

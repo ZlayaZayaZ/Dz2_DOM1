@@ -1,0 +1,28 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "webpack --mode production",
+    "cover": "jest --coverage",
+    "node": "node src/js/app.js"
+  },
+  "author": "ZlayaZayaZ",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.6",
+    "@babel/core": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
+    "eslint": "^9.4.0",
+    "jest": "^29.7.0",
+    "jest-babel": "^1.0.1",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1"
+  }
+}

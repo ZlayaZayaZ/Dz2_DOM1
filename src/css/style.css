@@ -1,0 +1,89 @@
+body {
+    width: 100%;
+    align-items: center; 
+    flex-direction: column; 
+    display: flex; 
+    margin-top: 0;
+  }
+
+h1 {
+    color: rgb(63, 62, 62);
+    font-size: 40px;
+}
+
+.content {
+    display: flex; 
+}
+
+.parent {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    border: 5px solid rgb(63, 62, 62);
+    width: 570px;
+    height: 570px;
+}
+
+.line {
+    align-items: stretch; 
+    display: flex; 
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    width: 125px;
+    height: 125px;
+    border: 5px solid gray;
+}
+
+.column {
+    display: flex;
+    flex-direction: column; 
+    width: 300px;
+    margin-left:30px;
+    border: 5px solid rgb(63, 62, 62);
+}
+
+.check {
+    display: flex; 
+    flex-direction: column; 
+}
+
+.checkClass {
+    display: flex; 
+}
+
+.field {
+    padding: 5px 20px;
+    color: white;
+    width: 100px;
+    height: 90px;
+    text-align: center;
+    font-size: 75px;
+}
+
+.checkYou {
+    background-color: rgb(50, 200, 50);
+}
+
+.checkGoblin {
+    background-color: rgb(150, 50, 50);
+}
+
+.rules {
+    display: flex; 
+    flex-direction: column; 
+    color: white;
+    background-color: gray;
+    /* border: 5px solid grey; */
+    padding: 0 20px;
+    height: 100%;
+    /* font-size: 18px; */
+}
+
+p {
+    /* margin: 0, auto; */
+    text-align: justify;
+    font-size: 17px;
+}
