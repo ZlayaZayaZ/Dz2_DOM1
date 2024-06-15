@@ -76,14 +76,11 @@ h1 {
     flex-direction: column; 
     color: white;
     background-color: gray;
-    /* border: 5px solid grey; */
     padding: 0 20px;
     height: 100%;
-    /* font-size: 18px; */
 }
 
 p {
-    /* margin: 0, auto; */
     text-align: justify;
     font-size: 17px;
 }
