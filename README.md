@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/eu4ha98inv3g5c8m?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/dz2-dom1-github-io)
+[![Build status](https://ci.appveyor.com/api/projects/status/j3whn4wovkmd6cup?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/dz2-dom1)
 
-[ссылка на GitHub Pages](https://zlayazayaz.github.io/Dz2_DOM.1/)
+[ссылка на GitHub Pages](https://zlayazayaz.github.io/Dz2_DOM1/)
 
 # Домашнее задание к занятию "2. DOM"
 
