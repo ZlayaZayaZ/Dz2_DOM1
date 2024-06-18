@@ -7,7 +7,9 @@ module.exports = merge(common, {
   mode: "development",
   // Control how source maps are generated
   devtool: "inline-source-map",
-
+  stats: {
+    children: true
+  },
   // Spin up a server for quick development
   devServer: {
     historyApiFallback: true,
