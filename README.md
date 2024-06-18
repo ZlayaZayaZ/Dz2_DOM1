@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ishvorrd7ahcys9c?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/dz2-dom-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/eu4ha98inv3g5c8m?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/dz2-dom1-github-io)
+
 [ссылка на GitHub Pages](https://zlayazayaz.github.io/Dz2_DOM.1/)
 
 # Домашнее задание к занятию "2. DOM"
@@ -13,14 +14,6 @@
 ---
 
 ### Перемещение элемента
-
-#### Легенда
-
-Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из "отверстий" и по ним нужно бить молотком:
-
-![](./pic/GracefulMiniatureBustard-small.gif)
-
-Copyright gfycat.com
 
 #### Описание
 
