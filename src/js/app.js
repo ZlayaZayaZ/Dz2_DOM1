@@ -3,7 +3,7 @@ const checkYou = document.querySelector('.checkYouNumber');
 const checkGoblin = document.querySelector('.checkGoblinNumber');
 
 const imgEl = document.createElement('img');
-imgEl.src = './goblin.png';
+imgEl.src = './src/goblin.png';
 let indexNow = getRandomInt(0, cells.length);
 cells[indexNow].appendChild(imgEl);
 
